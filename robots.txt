@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inchoirchir.github.io/sitemap
+Sitemap: https://inchoirchir.github.io/app/sitemap
+Sitemap: https://inchoirchir.github.io/assets/sitemap
+Sitemap: https://inchoirchir.github.io/css/sitemap
+Sitemap: https://inchoirchir.github.io/includes/sitemap
+Sitemap: https://inchoirchir.github.io/item/sitemap
+Sitemap: https://inchoirchir.github.io/src/sitemap
